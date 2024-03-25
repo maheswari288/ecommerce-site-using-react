@@ -1,0 +1,36 @@
+
+.navbarcss{
+    display: flex;
+    background-color: black;
+    color:white;
+}
+
+
+.title{
+
+    width:40%;
+    text-align: center;                         
+    
+}
+.menu{
+
+    width: 60%;
+   
+    
+   text-align: center;
+    padding-top: 15px;
+    
+    
+
+}
+
+
+a{
+
+    
+    text-decoration: None;
+    color: white;
+    padding-left: 40px;
+    
+
+}

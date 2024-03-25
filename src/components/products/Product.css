@@ -1,0 +1,20 @@
+.Product{
+    display: grid;
+    grid-template-columns: 20% 80%;
+  
+
+}
+
+.products{
+    background-color: aqua;
+   
+}
+
+.category{
+    background-color: blanchedalmond;
+    padding-top: 30px;                                                                                  
+}
+
+.category div{
+    margin-top: 10px;
+}

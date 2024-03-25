@@ -1,0 +1,13 @@
+.cardcss{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    
+}
+
+
+.headercss{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
